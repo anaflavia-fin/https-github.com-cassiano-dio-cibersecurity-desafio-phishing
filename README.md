@@ -2,7 +2,7 @@
 Desafio - Phishing para captura de senhas do Facebook
 Phishing para captura de senhas do Facebook
 
-Com o auxilio do repositório do professor Cassiano, executei o teste de phishing parea senhas e login do facebook.
+Com o auxilio do repositório do professor Cassiano, executei o teste de phishing para senhas e login do facebook.
 
 Ferramentas utilizadas:
 Kali Linux / setoolkit
